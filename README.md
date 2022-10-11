@@ -28,9 +28,12 @@ Pour mettre en place l'activité :
 
 - En amont :
   1. Installer les dépendances sur les ordinateurs des élèves :
+  
     - `pyserial`
     - `notebook` (paquet pour le notebook Jupyter ; probablement déjà installé et utilisable par les élèves)
+    
 - Pendant la séance :
+
   2. Brancher les Arduinos aux ordinateurs des élèves ; téléverser le code `Code Arduino/sketch/sketch.ino`
   3. Lancer Jupyter Notebook, et ouvrir le notebook `Code Python/Presentation.ipynb`
   4. Suivre les consignes du notebook.
